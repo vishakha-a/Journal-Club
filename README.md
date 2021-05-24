@@ -13,7 +13,8 @@ Notes for papers presented during our paper reading sessions for the Spring seme
 | April 3|Vishakha|intros/planning the semester||[Meeting notes](https://docs.google.com/document/d/1JT-2tFnkNZtAb4oOUWzedPLkNej6hf9OkcZpg5Zz8Qg/edit?usp=sharing)||
 | April 18|           Gaurav Sarkar    |Differential privacy| [Gautam Kamath's lecture series (1st five videos)](https://www.youtube.com/playlist?list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp)| | |
 |May 2|Vishakha|Code reading session|no prep required|https://github.com/CodeReadingClubs/Resources||
-|May 18||Differential privacy|Gaurav Kamath's lecture series (next five videos)|||
+|May 16||Differential privacy|Gaurav Kamath's lecture series (next five videos)|||
+|June 6|Vishakha|Learning LaTeX|no prep required|https://web.mit.edu/rsi/www/pdfs/new-latex.pdf|http://www.docs.is.ed.ac.uk/skills/documents/3722/3722-2014.pdf|
 
 
 
