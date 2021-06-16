@@ -14,7 +14,8 @@ Notes for papers presented during our paper reading sessions for the Spring seme
 | April 18|           Gaurav Sarkar    |Differential privacy| [Gautam Kamath's lecture series (1st five videos)](https://www.youtube.com/playlist?list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp)| | |
 |May 2|Vishakha|Code reading session|no prep required|https://github.com/CodeReadingClubs/Resources||
 |May 16||Differential privacy|Gaurav Kamath's lecture series (next five videos)|||
-|June 6|Vishakha|Learning LaTeX|no prep required|https://web.mit.edu/rsi/www/pdfs/new-latex.pdf|http://www.docs.is.ed.ac.uk/skills/documents/3722/3722-2014.pdf|
+|June 6|Vishakha|Learning LaTeX|no prep required|https://web.mit.edu/rsi/www/pdfs/new-latex.pdf|https://www.gleave.me/post/latex-design-patterns/|
+|June 27||OpenClubHouse|Just show up and present your stuff! You will have 5-10 minutes to present followed by 5 minutes of discussion. It can be an afternoon hack, some cool math you worked out, a cool demo, basically anything research-y!!!|Please bring slides!!!||
 
 
 
